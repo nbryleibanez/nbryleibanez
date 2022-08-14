@@ -1,7 +1,17 @@
 # Hi <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" height="25px"> I'm Nhyl!
 #### Student
 
-**nbryleibanez/nbryleibanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a BS in Computer Science student at the University of the Philippines - Mindanao.
+
+
+Skills: PYTHON / JS / HTML / CSS / DJANGO / FIGMA / SQL / PHP / C / JAVA
+
+
+- 🌱 I’m currently learning Django Web Applications 
+- 🏆 <a href="https://github.com/nbryleibanez/Certificates" target="_blank">Certificates</a>
+- 📃 <a href="https://drive.google.com/file/d/1plcQYgge_7dCH1LyVm2WtS4OBrSXA2mF/view?usp=sharing" target="_blank">My Resume</a>
+- 📫 How to reach me: nbryleibanez@gmail.com
+
 
 ### 🧰 Languages & Tools
 
@@ -30,9 +40,16 @@
 <img  width="40px" alt="figma" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" />
 <p/>
 
+
 ### ✨ Recent Tech Activities
 
-- techstars_ Startup Weekend Smart Cities Davao (Participant)
+- Participated in techstars_ Startup Weekend Smart Cities Davao as part of Team Alerto, an emergency services startup.
 
-[linkedin]: https://www.linkedin.com/in/ArJSarmiento/
-[facebook]: https://www.facebook.com/Arnel.Jansarmiento.2003/
+
+### 🔗 Connect with me
+
+[<img align="left" width="40px" alt="facebook" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
+[<img align="left" width="40px" alt="facebook" src="https://img.icons8.com/fluent/344/facebook-new.png" />][facebook]
+
+[linkedin]: https://www.linkedin.com/in/nbryleibanez/
+[facebook]: https://www.facebook.com/nbryleibanez/
