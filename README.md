@@ -32,7 +32,7 @@
 
 ### ✨ Recent Tech Activities
 
-- Techstars Startup Weekend Davao
+- techstars_ Startup Weekend Smart Cities Davao (Participant)
 
 [linkedin]: https://www.linkedin.com/in/ArJSarmiento/
 [facebook]: https://www.facebook.com/Arnel.Jansarmiento.2003/
