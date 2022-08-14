@@ -33,3 +33,6 @@
 ### ✨ Recent Tech Activities
 
 - Techstars Startup Weekend Davao
+
+[linkedin]: https://www.linkedin.com/in/ArJSarmiento/
+[facebook]: https://www.facebook.com/Arnel.Jansarmiento.2003/
