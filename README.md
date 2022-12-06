@@ -25,7 +25,6 @@ Skills: REACT / DJANGO / JAVASCRIPT / HTML / CSS / PYTHON / FIGMA
 <img width="40px" alt="typescript" src="https://img.icons8.com/color/2x/typescript.png" />
 <img width="40px" alt="expressjs" src="https://img.icons8.com/ios/2x/express-js.png" />
 <img width="40px" alt="postgresql" src="https://img.icons8.com/color/512/postgreesql.png" />
-<img  width="40px" alt="nuxtjs" src="https://i.redd.it/2ssi8ft315b71.png" /> -->
 <img  width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" /> 
 <img  width="40px" alt="php" src="https://img.icons8.com/dusk/344/php-logo.png" />
 <img width="40px" alt="python" src="https://img.icons8.com/color/2x/python.png" />
