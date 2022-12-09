@@ -4,7 +4,7 @@
 Currently a BS in Computer Science student at the University of the Philippines - Mindanao.
 
 
-Skills: REACT / DJANGO / JAVASCRIPT / HTML / CSS / PYTHON / FIGMA  
+Skills: REACT / DJANGO / JAVASCRIPT / PYTHON / FIGMA  
 
 
 - 🌱 I’m currently learning React, Typescript, and Redux for Front-end Development.
