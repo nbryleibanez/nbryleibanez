@@ -4,10 +4,10 @@
 Currently a BS in Computer Science student at the University of the Philippines - Mindanao.
 
 
-Skills: REACT / DJANGO / JAVASCRIPT / PYTHON / FIGMA  
+Skills: Next.js / React
 
 
-- 🌱 I’m currently learning React, Typescript, and Redux for Front-end Development.
+- 🌱 I’m currently working on Next.js Web Applications
 - 🏆 <a href="https://github.com/nbryleibanez/Certificates" target="_blank">Certificates</a>
 - 📃 <a href="https://drive.google.com/file/d/1plcQYgge_7dCH1LyVm2WtS4OBrSXA2mF/view?usp=sharing" target="_blank">My Resume</a>
 - 📫 How to reach me: nbryleibanez@gmail.com
