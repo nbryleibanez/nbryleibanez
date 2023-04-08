@@ -9,7 +9,7 @@ Skills: Next.js / React
 
 - 🌱 I’m currently working on Next.js Web Applications
 - 🏆 <a href="https://github.com/nbryleibanez/Certificates" target="_blank">Certificates</a>
-- 📃 <a href="https://drive.google.com/file/d/1plcQYgge_7dCH1LyVm2WtS4OBrSXA2mF/view?usp=sharing" target="_blank">My Resume</a>
+- 📃 <a href="[https://drive.google.com/file/d/1plcQYgge_7dCH1LyVm2WtS4OBrSXA2mF/view?usp=sharing](https://drive.google.com/file/d/1EsFXeYz-ewWtT3ULF_Yk12wa2wJgZsCO/view?usp=sharing)" target="_blank">My Resume</a>
 - 📫 How to reach me: nbryleibanez@gmail.com
 
 
@@ -25,11 +25,11 @@ Skills: Next.js / React
 <img width="40px" alt="typescript" src="https://img.icons8.com/color/2x/typescript.png" />
 <img width="40px" alt="expressjs" src="https://img.icons8.com/ios/2x/express-js.png" />
 <img width="40px" alt="postgresql" src="https://img.icons8.com/color/512/postgreesql.png" />
-<img  width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" /> 
-<img  width="40px" alt="php" src="https://img.icons8.com/dusk/344/php-logo.png" />
+<img width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" /> 
+<img width="40px" alt="php" src="https://img.icons8.com/dusk/344/php-logo.png" />
 <img width="40px" alt="python" src="https://img.icons8.com/color/2x/python.png" />
 <img width="40px" alt="numpy" src="https://img.icons8.com/color/2x/numpy.png" />
-<img  width="30px" alt="django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943"/>
+<img width="30px" alt="django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943"/>
 <img width="40px" alt="c" src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" />
 <img width="40px" alt="c++" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 <img width="40px" alt="git" src="https://img.icons8.com/color/2x/git.png" />
