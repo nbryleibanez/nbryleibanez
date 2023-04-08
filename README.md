@@ -9,7 +9,7 @@ Skills: Next.js / React
 
 - 🌱 I’m currently working on Next.js Web Applications
 - 🏆 <a href="https://github.com/nbryleibanez/Certificates" target="_blank">Certificates</a>
-- 📃 <a href="https://drive.google.com/file/d/1plcQYgge_7dCH1LyVm2WtS4OBrSXA2mF/view?usp=sharing" target="_blank">My Resume</a>
+- 📃 <a href="https://drive.google.com/file/d/1EsFXeYz-ewWtT3ULF_Yk12wa2wJgZsCO/view?usp=sharing" target="_blank">My Resume</a>
 - 📫 How to reach me: nbryleibanez@gmail.com
 
 
