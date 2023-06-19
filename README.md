@@ -15,9 +15,9 @@ Skills: React / Next.js
 <img width="40px" alt="js" src="https://img.icons8.com/color/2x/javascript.png" />
 <img width="40px" alt="typescript" src="https://img.icons8.com/color/2x/typescript.png" />
 <img width="40px" alt="reactjs" src="https://img.icons8.com/color/2x/react-native.png" />
-<img width="40px" alt="nextjs" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nextjs-icon.svg" />
+<img width="100px" alt="nextjs" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nextjs-icon.svg" />
 <img width="40px" alt="redux" src="https://img.icons8.com/color/2x/redux.png" />
-<img width="40px" alt="firebase" src="https://icons8.com/icon/62452/firebase" />
+<img width="40px" alt="firebase" src="https://img.icons8.com/color/512/google-firebase-console.png" />
 <img width="40px" alt="expressjs" src="https://img.icons8.com/ios/2x/express-js.png" />
 <img width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" /> 
 <img width="30px" alt="django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943"/>
@@ -27,6 +27,7 @@ Skills: React / Next.js
 
 - Participated in techstars_ Startup Weekend Smart Cities Davao as part of Team Alerto, an emergency services startup.
 - Won the 1st Place and Technomancer award at Computer Science Summit 6.0 Ideathon as a member of Runtime Terrors.
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nbryleibanez&theme=transparent&border_radius=10)](https://git.io/streak-stats)
